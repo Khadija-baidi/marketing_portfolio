@@ -1,0 +1,38 @@
+﻿C:\Users\HP\marketer_portfolio\src\components\ui\ProjectCard.jsx:10: accent = '#FF6500',
+C:\Users\HP\marketer_portfolio\src\components\ui\TestimonialSlider.jsx:41: style={{ background: 'radial-gradient(circle, #FF6500, transparent 60%)' }}
+C:\Users\HP\marketer_portfolio\src\components\ui\TestimonialSlider.jsx:46: style={{ background: 'radial-gradient(circle, #628141, transparent 60%)' }}
+C:\Users\HP\marketer_portfolio\src\components\Contact.jsx:37: style={{ background: 'radial-gradient(circle, #FF6500, transparent 60%)' }}
+C:\Users\HP\marketer_portfolio\src\components\Contact.jsx:44: style={{ background: 'radial-gradient(circle, #C40C0C, transparent 60%)' }}
+C:\Users\HP\marketer_portfolio\src\components\Hero.jsx:35: style={{ background: 'radial-gradient(circle, #FF6500, transparent 60%)' }}
+C:\Users\HP\marketer_portfolio\src\components\Hero.jsx:42: style={{ background: 'radial-gradient(circle, #628141, transparent 60%)' }}
+C:\Users\HP\marketer_portfolio\src\components\Projects.jsx:12: accent: '#FF6500',
+C:\Users\HP\marketer_portfolio\src\components\Projects.jsx:24: accent: '#CC561E',
+C:\Users\HP\marketer_portfolio\src\components\Projects.jsx:36: accent: '#C40C0C',
+C:\Users\HP\marketer_portfolio\src\components\Projects.jsx:48: accent: '#628141',
+C:\Users\HP\marketer_portfolio\src\components\Projects.jsx:60: accent: '#FF6500',
+C:\Users\HP\marketer_portfolio\src\components\Skills.jsx:28: vibrant: { ring: 'rgba(255,101,0,0.55)', text: '#FF6500' },
+C:\Users\HP\marketer_portfolio\src\components\Skills.jsx:29: burnt: { ring: 'rgba(204,86,30,0.55)', text: '#CC561E' },
+C:\Users\HP\marketer_portfolio\src\components\Skills.jsx:30: sand: { ring: 'rgba(246,206,113,0.55)', text: '#F6CE71' },
+C:\Users\HP\marketer_portfolio\src\components\Skills.jsx:31: olive: { ring: 'rgba(98,129,65,0.7)', text: '#628141' },
+C:\Users\HP\marketer_portfolio\src\components\Skills.jsx:32: crimson: { ring: 'rgba(196,12,12,0.55)', text: '#C40C0C' },
+C:\Users\HP\marketer_portfolio\src\components\Skills.jsx:142: style={{ background: 'radial-gradient(circle, #FF6500, transparent 60%)' }}
+C:\Users\HP\marketer_portfolio\src\components\SmoothCursor.jsx:62: borderColor: hover ? '#F6CE71' : '#FF6500',
+C:\Users\HP\marketer_portfolio\src\index.css:6: --color-sand: #F8F7BA;
+C:\Users\HP\marketer_portfolio\src\index.css:7: --color-burnt: ##BFDDF0
+C:\Users\HP\marketer_portfolio\src\index.css:8: --color-crimson: #C4E2F5;
+C:\Users\HP\marketer_portfolio\src\index.css:9: --color-olive: #FFD7C4;
+C:\Users\HP\marketer_portfolio\src\index.css:10: --color-vibrant: #8CC0EB;
+C:\Users\HP\marketer_portfolio\src\index.css:11: --color-ink: #0c1208;
+C:\Users\HP\marketer_portfolio\src\index.css:12: --color-ink-2: #141a0c;
+C:\Users\HP\marketer_portfolio\src\index.css:13: --color-ink-3: #1c2412;
+C:\Users\HP\marketer_portfolio\src\index.css:52: background: #0c1208;
+C:\Users\HP\marketer_portfolio\src\index.css:53: color: #F8F7BA;
+C:\Users\HP\marketer_portfolio\src\index.css:63: ::selection { background: #8CC0EB; color: #0c1208; }
+C:\Users\HP\marketer_portfolio\src\index.css:66: ::-webkit-scrollbar-track { background: #0c1208; }
+C:\Users\HP\marketer_portfolio\src\index.css:67: ::-webkit-scrollbar-thumb { background: linear-gradient(#FFEBCC, #BFDDF0); border-radius: 8px; }
+C:\Users\HP\marketer_portfolio\src\index.css:73: .text-outline { -webkit-text-stroke: 1.5px #F8F7BA; color: transparent; }
+C:\Users\HP\marketer_portfolio\src\index.css:74: .text-outline-burnt { -webkit-text-stroke: 1.5px #FFEBCC; color: transparent; }
+C:\Users\HP\marketer_portfolio\src\index.css:75: .text-outline-thin { -webkit-text-stroke: 1px #F8F7BA; color: transparent; }
+C:\Users\HP\marketer_portfolio\src\index.css:78: background: linear-gradient(120deg, #F8F7BA 0%, #FFEBCC 45%, #BFDDF0 100%);
+C:\Users\HP\marketer_portfolio\src\index.css:108: #0c1208;
+C:\Users\HP\marketer_portfolio\src\index.css:114: background: linear-gradient(120deg, #F8F7BA, #1e95cc, #fff78d, #00a2ff, #FFD7C4, #F8F7BA);
